@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "1072952038558",
+    "firebase_url": "https://android-232514.firebaseio.com",
+    "project_id": "android-232514",
+    "storage_bucket": "android-232514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:d4e62e3d2ca25c0f",
+        "android_client_info": {
+          "package_name": "com.cricnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3939375362961071~6269368723"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:87453b1d36d03777",
+        "android_client_info": {
+          "package_name": "com.emonews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3939375362961071~6779248037"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072952038558:android:5e514e159dd5c6be",
+        "android_client_info": {
+          "package_name": "com.flappybirdpokeppo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEb5S08nbOxzf5xLlsQopbWOUkkMEYNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072952038558-n1fkbvmhpcnl2ffel04c3k33phlv8a5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

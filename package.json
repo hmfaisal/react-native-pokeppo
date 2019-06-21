@@ -1,0 +1,43 @@
+{
+  "name": "flappybirdpokeppo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.5.0",
+    "axios": "^0.18.0",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "qs": "^6.7.0",
+    "react": "16.6.3",
+    "react-native": "0.59.5",
+    "react-native-firebase": "^5.3.1",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-really-awesome-button": "^1.4.2",
+    "react-native-sound": "^0.10.12",
+    "react-native-viewport-units": "0.0.5",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-logger": "^2.6.1",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-jest": "24.7.1",
+    "jest": "24.7.1",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  }
+}
